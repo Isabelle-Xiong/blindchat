@@ -1,0 +1,4 @@
+
+node_modules
+
+# so that it doesn't add node modules to github
